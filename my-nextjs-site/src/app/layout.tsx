@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: "Aspen Steele Portfolio",
     images: [
       {
-        url: "/og-image.png",
+        url: "/aspen-logo.png",
         width: 1200,
         height: 630,
         alt: "Aspen Steele Portfolio",
