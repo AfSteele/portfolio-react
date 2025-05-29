@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aspensteele.vercel.app
+
+# Sitemaps
+Sitemap: https://aspensteele.vercel.app/sitemap.xml
